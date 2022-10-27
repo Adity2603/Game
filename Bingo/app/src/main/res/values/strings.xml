@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bingo</string>
+    <string name="image">Bingo Text</string>
+    <string name="play">PLAY</string>
+    <string name="rule">Rules</string>
+    <string name="message">Type Your  Message</string>
+    <string name="hint">Message</string>
+    <string name="next">NEXT</string>
+    <string name="large">Generate Number</string>
+    <string name="start">Lets Start the game</string>
+</resources>
