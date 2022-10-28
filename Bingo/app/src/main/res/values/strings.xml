@@ -8,4 +8,5 @@
     <string name="next">NEXT</string>
     <string name="large">Generate Number</string>
     <string name="start">Lets Start the game</string>
+    <string name="invite">Enter Invite Code</string>
 </resources>
